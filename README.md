@@ -27,6 +27,3 @@ I am studying software engineering and currently working as a junior in ReactJS 
   </a>
   
 </div>
-
-<p align="center"> Visit counter </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/igrgarcia/count.svg" /></p>
