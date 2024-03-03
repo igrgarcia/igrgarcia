@@ -15,13 +15,6 @@ I am studying software engineering and currently working as a junior in ReactJS 
   <img height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
   <img height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
   <img height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
-  <img height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" />
-  <img height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" />
-  <img height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" />
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
   <img height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
 </div>
 
