@@ -6,7 +6,7 @@ I am studying systems analysis and development and currently working as a junior
 ##
 
 <div style="display: inline_block" align ="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats-v418.vercel.app/api/top-langs/?username=RamonMoisesCF&layout=compact&langs_count=7&theme=codeSTACKr&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats-v418.vercel.app/api/top-langs/?username=igrgarcia&layout=compact&langs_count=7&theme=codeSTACKr&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-v418.vercel.app/api?username=igrgarcia&theme=radical&count_private=true" />
 </div>
 
