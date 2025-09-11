@@ -6,8 +6,8 @@ I am studying software engineering and currently working as a junior in ReactJS 
 ##
 
 <div style="display: inline_block" align ="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igrgarcia&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igrgarcia&count_private=true&layout=compact&theme=radical&hide=jupyter%20notebook" />
+  <img height="180em" src="https://igrgarcias-projects.vercel.app/api?username=igrgarcia&theme=radical&count_private=true" />
+  <img height="180em" src="https://igrgarcias-projects.vercel.app/api/top-langs/?username=igrgarcia&count_private=true&layout=compact&theme=radical&hide=jupyter%20notebook" />
 </div>
 
 <div style="display: inline_block" align="center"></br>
