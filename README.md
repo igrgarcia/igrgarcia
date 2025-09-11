@@ -10,6 +10,7 @@ I am studying software engineering and currently working as a junior in ReactJS 
   <img height="180em" src="https://github-readme-stats-igrgarcias-projects.vercel.app/api?username=igrgarcia&theme=radical&count_private=true" />
   <img height="180em" src="https://github-readme-stats-igrgarcias-projects.vercel.app/api/top-langs/?username=igrgarcia&count_private=true&layout=compact&theme=radical&hide=jupyter%20notebook" />
 </div>
+
 <div style="display: inline_block" align="center"></br>
   <img height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
   <img height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
