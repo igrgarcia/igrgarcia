@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Igor Garcia
 
-I am studying systems analysis and development and currently working as a junior in ReactJS at the company Prefeitura Virtual
+I am studying systems analysis and development and currently working as a junior fullstack the company Prefeitura Virtual
 
 
 ##
