@@ -5,9 +5,10 @@ I am studying systems analysis and development and currently working as a junior
 
 ##
 
-<div style="display: inline_block" align ="center">
-<!--   <img loading="lazy" height="180em" src="https://github-readme-stats-v418.vercel.app/api/top-langs/?username=igrgarcia&layout=compact&langs_count=7&theme=codeSTACKr&count_private=true"/> -->
-    <img height="180em" src="https://github-readme-stats-v418.vercel.app/api?username=igrgarcia&theme=radical&include_all_commits=true&count_private=true" />
+<div align="center" dir="auto">
+<a href="https://github.com/igrgarcia">
+<!-- <img loading="lazy" height="180em" src="https://github-readme-stats-v418.vercel.app/api/top-langs/?username=igrgarcia&layout=compact&langs_count=7&theme=codeSTACKr&count_private=true"/> -->
+<img loading="lazy" height="180em" src="https://github-readme-stats-v418.vercel.app/api?theme=codeSTACKr&include_all_commits=true&count_private=true&username=igrgarcia&show_icons=true"/>
 </div>
 
 <div align="center" dir="auto""></br>
