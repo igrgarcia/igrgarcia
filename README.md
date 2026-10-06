@@ -1,6 +1,10 @@
 ### Hi there 👋, I'm Igor Garcia
 
-I am studying systems analysis and development and currently working as a junior fullstack the company Prefeitura Virtual
+Full-stack developer building web and mobile applications with Laravel, React, and TypeScript.
+
+- 💻 Full-stack developer working with Laravel, React, React Native, and TypeScript
+- ⚙️ Interested in backend architectures, system design, and performant web apps
+- 🚀 Always building and experimenting with new tech
 
 
 ##
